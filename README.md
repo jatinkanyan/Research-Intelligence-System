@@ -159,8 +159,8 @@ LLM generates an answer grounded in document context
 Jatin Kanyan
 Aspiring Data Scientist | ML & GenAI Enthusiast
 
-📎 LinkedIn: Add your link
-📎 GitHub: Add your profile
+📎 Video Link : https://drive.google.com/file/d/19Ss2O0dE9BbGThm0cau7D-nVXMTYXgmV/view?usp=sharing
+📎 GitHub: https://github.com/jatinkanyan/Research-Intelligence-System
 
 ⭐ If you like this project
 
